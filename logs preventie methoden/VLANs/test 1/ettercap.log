@@ -1,0 +1,29 @@
+
+[1mettercap 0.8.4[0m copyright 2001-2026 Ettercap Development Team
+
+Listening on:
+  eth0 -> 00:15:5D:A6:9F:03
+	  192.168.56.20/255.255.255.0
+	  fe80::5391:daeb:bfb3:49a/64
+
+This product includes GeoLite2 Data created by MaxMind, available from https://www.maxmind.com/.
+SSL dissection needs a valid 'redir_command_on' script in the etter.conf file
+Privileges dropped to EUID 65534 EGID 65534...
+
+  34 plugins
+  42 protocol dissectors
+  56 ports monitored
+38702 mac vendor fingerprint
+1766 tcp OS fingerprint
+2182 known services
+Lua: no scripts were specified, not starting up!
+
+Scanning for merged targets (2 hosts)...
+
+/ |=========================>                         |  50.00 %- |==================================================>| 100.00 %* |==================================================>| 100.00 %
+
+0 hosts added to the hosts list...
+
+[31m[1mFATAL: [0mARP poisoning needs a non empty hosts list.
+
+

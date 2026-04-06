@@ -1,0 +1,53 @@
+1)
+status: workt
+end:  25 	
+begin:24.586318000 
+
+2)
+status: workt 
+end: 	23 	 
+begin: 22.273349000 
+
+3)
+status: workt
+end: 61 	
+begin:59.940045000 
+
+4)
+status: workt
+end: 37 	
+begin:36.370875000 
+
+5)
+status: workt
+end: 30 	
+begin:28.965445000 
+
+
+6)
+status: workt
+end:44 	
+begin: 43.457415000
+
+
+7)
+status: workt
+end: 25 	 
+begin:24.638494000 
+
+
+8)
+status: workt
+end:30 	
+begin: 29.736385000 
+
+
+9)
+status: workt
+end: 	26 	 
+begin: 25.479143000 UTC
+
+10)
+status: workt
+end: 27 	
+begin:26.052386000 

@@ -1,0 +1,53 @@
+1)
+status: workt
+end:36 
+begin:34.879889000 
+
+2) 
+status: workt
+end:26 	
+begin: 19.082575000 
+
+3)
+status: workt
+end:44 	
+begin:43.425130000
+
+4)
+status: workt
+end:42 	
+begin: 40.824094000 
+
+5)
+status: workt
+end:09 	
+begin:07.945078000 
+
+
+6)
+status: workt
+end:55 	
+begin:54.128719000 
+
+
+7)
+status: workt
+end:01 	 
+begin:23:00.102220000 
+
+
+8)
+status: workt
+end: 03 	
+begin:02.789545000 
+
+
+9)
+status: workt
+end: 	33 	
+begin: 32.311338000 
+
+10)
+status: workt
+end:29 		 
+begin: 28.695907000 

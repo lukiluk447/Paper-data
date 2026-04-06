@@ -1,0 +1,81 @@
+Begin test 1
+
+Time it took was: 65013800 nano sec
+laytency was 1.0
+End test
+Begin test 2
+Time it took was: 62472000 nano sec
+laytency was 1.0
+End test
+Begin test 3
+Time it took was: 75144100 nano sec
+laytency was 1.0
+End test
+Begin test 4
+Time it took was: 60919500 nano sec
+laytency was 1.0
+End test
+Begin test 5
+Time it took was: 69947100 nano sec
+laytency was 1.0
+End test
+Begin test 6
+Time it took was: 83599400 nano sec
+laytency was 1.0
+End test
+Begin test 7
+Time it took was: 62097900 nano sec
+laytency was 1.0
+End test
+Begin test 8
+Time it took was: 63493900 nano sec
+laytency was 1.0
+End test
+Begin test 9
+Time it took was: 69616700 nano sec
+laytency was 1.0
+End test
+Begin test 10
+Time it took was: 70928700 nano sec
+laytency was 1.0
+End test
+Begin test 11
+Time it took was: 62978700 nano sec
+laytency was 1.0
+End test
+Begin test 12
+Time it took was: 62544400 nano sec
+laytency was 1.0
+End test
+Begin test 13
+Time it took was: 60387500 nano sec
+laytency was 1.0
+End test
+Begin test 14
+Time it took was: 65762500 nano sec
+laytency was 1.0
+End test
+Begin test 15
+Time it took was: 61118700 nano sec
+laytency was 1.0
+End test
+Begin test 16
+Time it took was: 62460400 nano sec
+laytency was 1.0
+End test
+Begin test 17
+Time it took was: 64087300 nano sec
+laytency was 1.0
+End test
+Begin test 18
+Time it took was: 64540300 nano sec
+laytency was 1.0
+End test
+Begin test 19
+Time it took was: 72371200 nano sec
+laytency was 1.0
+End test
+Begin test 20
+Time it took was: 77642000 nano sec
+laytency was 1.0
+End test

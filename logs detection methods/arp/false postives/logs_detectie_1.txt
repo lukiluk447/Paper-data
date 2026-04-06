@@ -1,0 +1,83 @@
+begin test
+
+Start scan 0
+Time it took was: 2015327800 nano sec
+
+
+Start scan 1
+Time it took was: 2010925500 nano sec
+
+
+Start scan 2
+Time it took was: 2006114500 nano sec
+
+
+Start scan 3
+Time it took was: 2015655400 nano sec
+
+
+Start scan 4
+Time it took was: 2010874100 nano sec
+
+
+Start scan 5
+Time it took was: 2009191800 nano sec
+
+
+Start scan 6
+Time it took was: 2018845000 nano sec
+
+
+Start scan 7
+Time it took was: 2013403400 nano sec
+
+
+Start scan 8
+Time it took was: 2009305100 nano sec
+
+
+Start scan 9
+Time it took was: 2005038600 nano sec
+
+
+Start scan 10
+Time it took was: 2018368600 nano sec
+
+
+Start scan 11
+Time it took was: 2007096200 nano sec
+
+
+Start scan 12
+Time it took was: 2011893300 nano sec
+
+
+Start scan 13
+Time it took was: 2014309200 nano sec
+
+
+Start scan 14
+Time it took was: 2019784100 nano sec
+
+
+Start scan 15
+Time it took was: 2020564800 nano sec
+
+
+Start scan 16
+Time it took was: 2004092600 nano sec
+
+
+Start scan 17
+Time it took was: 2008165700 nano sec
+
+
+Start scan 18
+Time it took was: 2011163500 nano sec
+
+
+Start scan 19
+Time it took was: 2008517000 nano sec
+
+
+einde test

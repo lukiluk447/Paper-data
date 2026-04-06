@@ -1,0 +1,163 @@
+begin test
+
+Start scan 0
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2019238100 nano sec
+
+
+Start scan 1
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2024238800 nano sec
+
+
+Start scan 2
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2016422600 nano sec
+
+
+Start scan 3
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2020148700 nano sec
+
+
+Start scan 4
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2063769400 nano sec
+
+
+Start scan 5
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:aa:f8:01
+08:00:27:76:bb:e7
+Time it took was: 2014696000 nano sec
+
+
+Start scan 6
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2016141500 nano sec
+
+
+Start scan 7
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2013453400 nano sec
+
+
+Start scan 8
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2014569600 nano sec
+
+
+Start scan 9
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2072294100 nano sec
+
+
+Start scan 10
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2012596600 nano sec
+
+
+Start scan 11
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2015221500 nano sec
+
+
+Start scan 12
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2009252100 nano sec
+
+
+Start scan 13
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2012265900 nano sec
+
+
+Start scan 14
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2011259700 nano sec
+
+
+Start scan 15
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2014876400 nano sec
+
+
+Start scan 16
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2008446700 nano sec
+
+
+Start scan 17
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2013258300 nano sec
+
+
+Start scan 18
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:aa:f8:01
+08:00:27:76:bb:e7
+Time it took was: 2009992200 nano sec
+
+
+Start scan 19
+Waarschuwing: MITM-aanval gedetecteerd! Meerdere ARP-replies ontvangen van 192.168.1.1:
+MACS:
+08:00:27:76:bb:e7
+08:00:27:aa:f8:01
+Time it took was: 2004195100 nano sec
+
+
+einde test

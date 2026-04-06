@@ -1,0 +1,101 @@
+Begin test 1
+
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 13.0 ms
+Time it took was: 151043700 nano sec
+laytency was 13.0
+End test
+Begin test 2
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.0 ms
+Time it took was: 135969700 nano sec
+laytency was 12.0
+End test
+Begin test 3
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.6 ms
+Time it took was: 137156900 nano sec
+laytency was 12.6
+End test
+Begin test 4
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 14.2 ms
+Time it took was: 152060300 nano sec
+laytency was 14.2
+End test
+Begin test 5
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 13.4 ms
+Time it took was: 138096000 nano sec
+laytency was 13.4
+End test
+Begin test 6
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.0 ms
+Time it took was: 128768300 nano sec
+laytency was 12.0
+End test
+Begin test 7
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 10.2 ms
+Time it took was: 122602200 nano sec
+laytency was 10.2
+End test
+Begin test 8
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.8 ms
+Time it took was: 136207600 nano sec
+laytency was 12.8
+End test
+Begin test 9
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 29.6 ms
+Time it took was: 221377200 nano sec
+laytency was 29.6
+End test
+Begin test 10
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 17.4 ms
+Time it took was: 160434400 nano sec
+laytency was 17.4
+End test
+Begin test 11
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.8 ms
+Time it took was: 134747300 nano sec
+laytency was 12.8
+End test
+Begin test 12
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 13.4 ms
+Time it took was: 135202900 nano sec
+laytency was 13.4
+End test
+Begin test 13
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 15.0 ms
+Time it took was: 150574500 nano sec
+laytency was 15.0
+End test
+Begin test 14
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 16.4 ms
+Time it took was: 157623700 nano sec
+laytency was 16.4
+End test
+Begin test 15
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 14.0 ms
+Time it took was: 143463000 nano sec
+laytency was 14.0
+End test
+Begin test 16
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 14.4 ms
+Time it took was: 148800400 nano sec
+laytency was 14.4
+End test
+Begin test 17
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 15.0 ms
+Time it took was: 150245000 nano sec
+laytency was 15.0
+End test
+Begin test 18
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 10.2 ms
+Time it took was: 126221400 nano sec
+laytency was 10.2
+End test
+Begin test 19
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.6 ms
+Time it took was: 135724100 nano sec
+laytency was 12.6
+End test
+Begin test 20
+Waarschuwing: Vermoedelijke MITM-aanval gedetecteerd! Gemiddelde latency is 12.0 ms
+Time it took was: 133610400 nano sec
+laytency was 12.0
+End test

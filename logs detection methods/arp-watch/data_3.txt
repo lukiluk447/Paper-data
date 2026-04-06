@@ -1,0 +1,57 @@
+1)
+status: workt
+end: 55 	 
+begin: 54.565485000 
+
+
+2) 
+status: workt
+end:53 	
+begin:52.417245000 
+
+
+3)
+status: workt
+end: 28 	
+begin:27.080027000 
+
+
+4)
+status: workt
+end: 55 	
+begin:53.944326000 
+
+
+5)
+status: workt
+end: 01 		
+begin: 00.077383000 
+
+
+6)
+status: workt
+end:20 	
+begin:19.268898000 
+
+
+7)
+status: workt
+end:11 	 
+begin:10.127971000 
+
+
+8)
+status: workt
+end:09 		
+begin: 08.352041000
+
+
+9)
+status: workt
+end: 18 	 	 	
+begin:17.288254000 
+
+10)
+status: workt
+end:52 		 
+begin:51.729294000 
