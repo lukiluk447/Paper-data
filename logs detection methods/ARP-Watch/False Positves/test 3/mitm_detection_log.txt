@@ -1,0 +1,81 @@
+[2026-04-09 22:18:52.392099] === START RUN 1 ===
+[2026-04-09 22:19:54.200419] Geen detectie binnen timeout
+[2026-04-09 22:19:54.205472] Run 1 opgeslagen in Excel
+
+[2026-04-09 22:19:54.205682] === START RUN 2 ===
+[2026-04-09 22:20:54.737436] Geen detectie binnen timeout
+[2026-04-09 22:20:54.741165] Run 2 opgeslagen in Excel
+
+[2026-04-09 22:20:54.741275] === START RUN 3 ===
+[2026-04-09 22:21:55.787502] Geen detectie binnen timeout
+[2026-04-09 22:21:55.791235] Run 3 opgeslagen in Excel
+
+[2026-04-09 22:21:55.791308] === START RUN 4 ===
+[2026-04-09 22:22:56.867740] Geen detectie binnen timeout
+[2026-04-09 22:22:56.870380] Run 4 opgeslagen in Excel
+
+[2026-04-09 22:22:56.870454] === START RUN 5 ===
+[2026-04-09 22:23:57.084698] Geen detectie binnen timeout
+[2026-04-09 22:23:57.087833] Run 5 opgeslagen in Excel
+
+[2026-04-09 22:23:57.087884] === START RUN 6 ===
+[2026-04-09 22:24:58.117883] Geen detectie binnen timeout
+[2026-04-09 22:24:58.120669] Run 6 opgeslagen in Excel
+
+[2026-04-09 22:24:58.120706] === START RUN 7 ===
+[2026-04-09 22:25:58.569129] Geen detectie binnen timeout
+[2026-04-09 22:25:58.571540] Run 7 opgeslagen in Excel
+
+[2026-04-09 22:25:58.571623] === START RUN 8 ===
+[2026-04-09 22:26:58.697185] Geen detectie binnen timeout
+[2026-04-09 22:26:58.699823] Run 8 opgeslagen in Excel
+
+[2026-04-09 22:26:58.699945] === START RUN 9 ===
+[2026-04-09 22:27:59.028667] Geen detectie binnen timeout
+[2026-04-09 22:27:59.032442] Run 9 opgeslagen in Excel
+
+[2026-04-09 22:27:59.032638] === START RUN 10 ===
+[2026-04-09 22:28:59.828963] Geen detectie binnen timeout
+[2026-04-09 22:28:59.830777] Run 10 opgeslagen in Excel
+
+[2026-04-09 22:28:59.830809] === START RUN 11 ===
+[2026-04-09 22:30:00.094970] Geen detectie binnen timeout
+[2026-04-09 22:30:00.097246] Run 11 opgeslagen in Excel
+
+[2026-04-09 22:30:00.097443] === START RUN 12 ===
+[2026-04-09 22:31:00.521230] Geen detectie binnen timeout
+[2026-04-09 22:31:00.527563] Run 12 opgeslagen in Excel
+
+[2026-04-09 22:31:00.527663] === START RUN 13 ===
+[2026-04-09 22:32:01.600161] Geen detectie binnen timeout
+[2026-04-09 22:32:01.602765] Run 13 opgeslagen in Excel
+
+[2026-04-09 22:32:01.602809] === START RUN 14 ===
+[2026-04-09 22:33:01.687751] Geen detectie binnen timeout
+[2026-04-09 22:33:01.691246] Run 14 opgeslagen in Excel
+
+[2026-04-09 22:33:01.691491] === START RUN 15 ===
+[2026-04-09 22:34:03.475247] Geen detectie binnen timeout
+[2026-04-09 22:34:03.478227] Run 15 opgeslagen in Excel
+
+[2026-04-09 22:34:03.478311] === START RUN 16 ===
+[2026-04-09 22:35:03.830084] Geen detectie binnen timeout
+[2026-04-09 22:35:03.835647] Run 16 opgeslagen in Excel
+
+[2026-04-09 22:35:03.835955] === START RUN 17 ===
+[2026-04-09 22:36:05.462306] Geen detectie binnen timeout
+[2026-04-09 22:36:05.466435] Run 17 opgeslagen in Excel
+
+[2026-04-09 22:36:05.466541] === START RUN 18 ===
+[2026-04-09 22:37:06.689601] Geen detectie binnen timeout
+[2026-04-09 22:37:06.693388] Run 18 opgeslagen in Excel
+
+[2026-04-09 22:37:06.693507] === START RUN 19 ===
+[2026-04-09 22:38:07.919813] Geen detectie binnen timeout
+[2026-04-09 22:38:07.922892] Run 19 opgeslagen in Excel
+
+[2026-04-09 22:38:07.922973] === START RUN 20 ===
+[2026-04-09 22:39:09.569030] Geen detectie binnen timeout
+[2026-04-09 22:39:09.573980] Run 20 opgeslagen in Excel
+
+[2026-04-09 22:39:09.574168] Alle 20 runs voltooid. Resultaten in mitm_detection.xlsx

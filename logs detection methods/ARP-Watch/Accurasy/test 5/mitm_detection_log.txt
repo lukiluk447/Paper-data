@@ -1,0 +1,101 @@
+[2026-04-07 16:35:23.846575] === START RUN 1 ===
+[2026-04-07 16:35:23.846815] MITM attack gestart
+[2026-04-07 16:35:26.076402] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:35:26 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 2229564642.00 sec
+[2026-04-07 16:35:29.233107] Run 1 opgeslagen in Excel
+
+[2026-04-07 16:36:29.292431] === START RUN 2 ===
+[2026-04-07 16:36:29.292564] MITM attack gestart
+[2026-04-07 16:36:29.402945] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:35:27 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 110373709.00 sec
+[2026-04-07 16:36:29.482058] Run 2 opgeslagen in Excel
+
+[2026-04-07 16:37:29.502633] === START RUN 3 ===
+[2026-04-07 16:37:29.502786] MITM attack gestart
+[2026-04-07 16:37:29.607750] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:35:28 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 104954497.00 sec
+[2026-04-07 16:37:29.732469] Run 3 opgeslagen in Excel
+
+[2026-04-07 16:38:30.053660] === START RUN 4 ===
+[2026-04-07 16:38:30.053913] MITM attack gestart
+[2026-04-07 16:38:30.161753] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:35:29 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 107832484.00 sec
+[2026-04-07 16:38:30.289060] Run 4 opgeslagen in Excel
+
+[2026-04-07 16:39:30.291575] === START RUN 5 ===
+[2026-04-07 16:39:30.291724] MITM attack gestart
+[2026-04-07 16:39:30.435582] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:36:16 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:d6:bb:84 (08:00:27:62:57:42) Detectietijd: 143851310.00 sec
+[2026-04-07 16:39:30.508883] Run 5 opgeslagen in Excel
+
+[2026-04-07 16:40:30.540079] === START RUN 6 ===
+[2026-04-07 16:40:30.540264] MITM attack gestart
+[2026-04-07 16:40:32.855228] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:40:32 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 2314956036.00 sec
+[2026-04-07 16:40:36.015899] Run 6 opgeslagen in Excel
+
+[2026-04-07 16:41:36.071811] === START RUN 7 ===
+[2026-04-07 16:41:36.071942] MITM attack gestart
+[2026-04-07 16:41:36.178986] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:40:33 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 107037301.00 sec
+[2026-04-07 16:41:36.252526] Run 7 opgeslagen in Excel
+
+[2026-04-07 16:42:36.377067] === START RUN 8 ===
+[2026-04-07 16:42:36.377212] MITM attack gestart
+[2026-04-07 16:42:36.485067] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:40:34 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 107844893.00 sec
+[2026-04-07 16:42:36.611638] Run 8 opgeslagen in Excel
+
+[2026-04-07 16:43:36.614319] === START RUN 9 ===
+[2026-04-07 16:43:36.614472] MITM attack gestart
+[2026-04-07 16:43:36.723987] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:40:35 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 109509378.00 sec
+[2026-04-07 16:43:36.845817] Run 9 opgeslagen in Excel
+
+[2026-04-07 16:44:36.856698] === START RUN 10 ===
+[2026-04-07 16:44:36.856845] MITM attack gestart
+[2026-04-07 16:44:36.965135] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:41:00 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:d6:bb:84 (08:00:27:62:57:42) Detectietijd: 108283844.00 sec
+[2026-04-07 16:44:37.086754] Run 10 opgeslagen in Excel
+
+[2026-04-07 16:45:37.124429] === START RUN 11 ===
+[2026-04-07 16:45:37.124808] MITM attack gestart
+[2026-04-07 16:45:39.337115] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:45:38 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 2212305127.00 sec
+[2026-04-07 16:45:42.499090] Run 11 opgeslagen in Excel
+
+[2026-04-07 16:46:42.517755] === START RUN 12 ===
+[2026-04-07 16:46:42.517868] MITM attack gestart
+[2026-04-07 16:46:42.638175] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:45:39 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 120300621.00 sec
+[2026-04-07 16:46:42.765212] Run 12 opgeslagen in Excel
+
+[2026-04-07 16:47:42.769279] === START RUN 13 ===
+[2026-04-07 16:47:42.769513] MITM attack gestart
+[2026-04-07 16:47:42.871912] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:45:40 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 102391294.00 sec
+[2026-04-07 16:47:42.995378] Run 13 opgeslagen in Excel
+
+[2026-04-07 16:48:43.101503] === START RUN 14 ===
+[2026-04-07 16:48:43.101898] MITM attack gestart
+[2026-04-07 16:48:43.207977] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:45:41 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 106072528.00 sec
+[2026-04-07 16:48:43.335603] Run 14 opgeslagen in Excel
+
+[2026-04-07 16:49:43.797275] === START RUN 15 ===
+[2026-04-07 16:49:43.797557] MITM attack gestart
+[2026-04-07 16:49:43.948596] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:46:07 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:d6:bb:84 (08:00:27:62:57:42) Detectietijd: 151031518.00 sec
+[2026-04-07 16:49:44.071787] Run 15 opgeslagen in Excel
+
+[2026-04-07 16:50:44.192044] === START RUN 16 ===
+[2026-04-07 16:50:44.192170] MITM attack gestart
+[2026-04-07 16:50:46.422926] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:50:45 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 2230748037.00 sec
+[2026-04-07 16:50:49.617717] Run 16 opgeslagen in Excel
+
+[2026-04-07 16:51:49.659653] === START RUN 17 ===
+[2026-04-07 16:51:49.659888] MITM attack gestart
+[2026-04-07 16:51:49.764040] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:50:46 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 104150772.00 sec
+[2026-04-07 16:51:49.888606] Run 17 opgeslagen in Excel
+
+[2026-04-07 16:52:49.890663] === START RUN 18 ===
+[2026-04-07 16:52:49.891345] MITM attack gestart
+[2026-04-07 16:52:50.000392] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:50:47 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 109042538.00 sec
+[2026-04-07 16:52:50.123072] Run 18 opgeslagen in Excel
+
+[2026-04-07 16:53:50.239114] === START RUN 19 ===
+[2026-04-07 16:53:50.239397] MITM attack gestart
+[2026-04-07 16:53:50.347342] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:50:48 pfSense arpwatch[50871]: ethernet mismatch 192.168.1.101 08:00:27:62:57:42 (08:00:27:d6:bb:84) Detectietijd: 107934462.00 sec
+[2026-04-07 16:53:50.476669] Run 19 opgeslagen in Excel
+
+[2026-04-07 16:54:50.488881] === START RUN 20 ===
+[2026-04-07 16:54:50.489135] MITM attack gestart
+[2026-04-07 16:54:50.590947] MITM gedetecteerd! ARPWatch LOG: Apr  7 22:51:15 pfSense arpwatch[50871]: flip flop 192.168.1.101 08:00:27:d6:bb:84 (08:00:27:62:57:42) Detectietijd: 101806668.00 sec
+[2026-04-07 16:54:50.719402] Run 20 opgeslagen in Excel
+
+[2026-04-07 16:55:50.743941] Alle 20 runs voltooid. Resultaten in mitm_detection.xlsx
